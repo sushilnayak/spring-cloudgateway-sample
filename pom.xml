@@ -8,5 +8,8 @@
     <artifactId>spring-cloudgateway-sample</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <modules>
+        <module>student-service</module>
+        <module>university-gateway</module>
+    </modules>
 </project>
